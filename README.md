@@ -1,7 +1,6 @@
-A Simple Mathematic Theory in Scala - Permutation
+A Permutation Mathematic Theory in Scala
 
-Refer below link for more information:
-
+Refer below link for more information:<br>
 http://scalaoncloud.blogspot.com/2014/11/using-scala-recursion-functions-for.html
 
 ===========
