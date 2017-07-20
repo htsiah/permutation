@@ -1,1 +1,1 @@
-
+This example demonstrate recursion method. The program accepts 2 integer inputs (Number of things to choose from and Number of times to choose) and calculate how many permutation (possible combination) with no repeat number.
